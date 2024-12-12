@@ -6,3 +6,55 @@
   
 }
 
+.title{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 5%;
+}
+
+h2{
+  margin-left: 1%;
+  color: #007bff;
+}
+
+.instructions{
+  margin-left: 4%;
+  margin-top: 2%;
+}
+
+.instructions p:last-child {
+  font-style: italic;
+  color: #6c757d;
+}
+
+.inputbtn{
+  margin-top: 1%;
+  margin-left: 4%;
+}
+
+.choosebtn{
+  margin-top: 2%;
+  margin-left: 4%;
+}
+
+.download {
+  padding: 15px;
+  width: fit-content;
+  font-family: 'Arial', sans-serif;
+  font-size: 14px;
+  color: #333;
+  margin-left: 3%;
+}
+
+.download p:first-child {
+  font-weight: bold;
+  font-size: x-large;
+  color: #007bff;
+  margin-bottom: 10px;
+}
+
+.download p:last-child {
+  font-style: italic;
+  color: #6c757d;
+}
