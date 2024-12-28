@@ -6,7 +6,7 @@ import cors from 'cors';
 import compileTemplate from './template.js';
 
 const app = express();
-app.use(cors({ origin: 'http://localhost:5173' }));
+app.use(cors());
 app.use(bodyParser.json());
 
 app.get('/', (req,res) => {
