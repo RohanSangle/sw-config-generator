@@ -3,7 +3,7 @@ import axios from 'axios';
 const uploadExcelData = async (parsedData) => {
   try {
     console.log('Sending data:', parsedData);  // Log the data being sent
-    const response = await axios.post('http://localhost:5000/generate-config', parsedData, {
+    const response = await axios.post('https://sw-config-generator.onrender.com/generate-config', parsedData, {
       headers: {
         'Content-Type': 'application/json',
       },

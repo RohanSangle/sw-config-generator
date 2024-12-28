@@ -46,7 +46,7 @@ function App() {
 
       try {
         await uploadExcelData(jsonData);
-        const response = await fetch('http://localhost:5000/generate-config', {
+        const response = await fetch('https://sw-config-generator.onrender.com/generate-config', {
           method: 'POST',
           headers: { 'Content-Type': 'application/json' },
           body: JSON.stringify(jsonData),
