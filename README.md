@@ -11,9 +11,9 @@ A tool for generating switch configuration .txt files tailored for the APAC regi
 
 ## Screenshots
 
-[![photo-2025-01-06-21-06-57.jpg](https://i.postimg.cc/P5YSvDqW/photo-2025-01-06-21-06-57.jpg)](https://postimg.cc/QFNQRH1C)
+[![photo-2025-01-06-21-18-46.jpg](https://i.postimg.cc/hvndwJnB/photo-2025-01-06-21-18-46.jpg)](https://postimg.cc/34LN0xWS)
 
-[![photo-2025-01-06-21-06-59.jpg](https://i.postimg.cc/nLx04Ls6/photo-2025-01-06-21-06-59.jpg)](https://postimg.cc/21HQmr7w)
+[![photo-2025-01-06-21-18-48.jpg](https://i.postimg.cc/BbCKGqZ1/photo-2025-01-06-21-18-48.jpg)](https://postimg.cc/sGvXYChV)
 
 ## Tech Stack
 
