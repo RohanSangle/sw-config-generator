@@ -1,6 +1,6 @@
 ## Switch Config Generator
 
-A tool for generating switch configuration .txt files tailored for the APAC region.
+A tool for generating switch configuration .txt files tailored for the APAC region.<br>
 (*This is exclusive to the data format inputted and will not work for any other excel data)
 
 ## Features
@@ -30,10 +30,10 @@ How to parse Excel data and using a javascript template to map these data.
 
 Use the following types for contributing:
 
-feat: for new features
-fix: for bug fixes
-docs: for documentation changes
-style: for code formatting
-refactor: for code refactoring
-test: for adding or modifying tests
-chore: for routine tasks or changes
+**feat**: for new features<br>
+**fix**: for bug fixes<br>
+**docs**: for documentation changes<br>
+**style**: for code formatting<br>
+**refactor**: for code refactoring<br>
+**test**: for adding or modifying tests<br>
+**chore**: for routine tasks or changes<br>
